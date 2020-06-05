@@ -1,6 +1,6 @@
 # Desafio Soluevo iOS
 
-## Criar um aplicativo para consultar a API do GitHub ##
+## Aplicativo para consultar a API do GitHub ##
 Criar um aplicativo para consultar a API do GitHub e trazer os repositórios mais populares de Swift.
 
 ## O que será avaliado:
